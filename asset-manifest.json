@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Quote-Machine/static/css/main.cf71c8cd.css",
+    "main.js": "/Quote-Machine/static/js/main.98ec351e.js",
+    "static/js/787.e43a185d.chunk.js": "/Quote-Machine/static/js/787.e43a185d.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Quote-Machine/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Quote-Machine/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Quote-Machine/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Quote-Machine/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Quote-Machine/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Quote-Machine/index.html",
+    "main.cf71c8cd.css.map": "/Quote-Machine/static/css/main.cf71c8cd.css.map",
+    "main.98ec351e.js.map": "/Quote-Machine/static/js/main.98ec351e.js.map",
+    "787.e43a185d.chunk.js.map": "/Quote-Machine/static/js/787.e43a185d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf71c8cd.css",
+    "static/js/main.98ec351e.js"
+  ]
+}
