@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn, .btn:hover {
+  color: white !important;
+}
+
+#quote-box {
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+}
